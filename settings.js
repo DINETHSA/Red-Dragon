@@ -29,8 +29,8 @@ global.ownernomer = '+94769323884' //Owner Number <<<
 global.ownername = '𝘿𝙃𝙄𝙉𝙐....𝙎' //Owner Name
 global.botname = ' ☬RED༒DRAGON࿐' //Bot Name
 
-global.button = '🤭Youtube📍' //Costomize A Button Name In Alive Message
-global.btnurl = 'https://youtu.be/E5C-lrl_g9I' //Change Your Button's URL
+global.button = '🤭MY NUMBR' //Costomize A Button Name In Alive Message
+global.btnurl = 'wa.me/+94769323884' //Change Your Button's URL
 
 global.region = 'India, South India, Kerala' //Country Region
 
