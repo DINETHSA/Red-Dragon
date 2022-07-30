@@ -22,15 +22,15 @@ global.APIKeys = {
 global.alivemsg = `My name is DHINU....S🔥
 My Creator is DHINU....S😎` //Costomize Alive Message (type your message in `` )
 
-global.owner = ['+94761907199'] //Owner number in aive msg
-global.premium = ['+94761907199'] //Owner Number info
-global.ownernomer = '+94761907199' //Owner Number <<<
+global.owner = ['94720420641'] //Owner number in aive msg
+global.premium = ['94720420641'] //Owner Number info
+global.ownernomer = '94720420641' //Owner Number <<<
 
 global.ownername = '𝘿𝙃𝙄𝙉𝙐....𝙎' //Owner Name
 global.botname = ' ☬DHINU༒BOT࿐' //Bot Name
 
 global.button = '🤭MY NUMBR' //Costomize A Button Name In Alive Message
-global.btnurl = 'wa.me/+94769323884' //Change Your Button's URL
+global.btnurl = 'wa.me/+94720420641' //Change Your Button's URL
 
 global.region = 'India, South India, Kerala' //Country Region
 
@@ -43,7 +43,7 @@ global.dragonemoji = '🧩' // Menu emoji
 global.footer = '©_Kumuthu.' //In list menu
 global.chatbotpre = 'true'  // Chat bot true/false
 
-global.ig = 'https://github.com/prabhasha2006' //Github Account!
+global.ig = 'https://github.com/DINETHSA' //Github Account!
 
 global.mess = { // COSTOMIZE WITH YOUR LANGUAGE
 	
